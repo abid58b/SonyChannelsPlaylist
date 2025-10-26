@@ -35,7 +35,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add sonyaath.m3u8 sonybbcearthhd.m3u8 sonymarathi.m3u8 sonymax2.m3u8 sonymaxhd.m3u8 sonypal.m3u8 sonypixhd.m3u8 sonysabhd.m3u8 sonyten1hd.m3u8 sonyten2hd.m3u8 sonyten3hd.m3u8 sonyten4hd.m3u8 sonyten5hd.m3u8 sonywah.m3u8 sonyyay.m3u8
+          git add sonysethd.m3u8 sonyaath.m3u8 sonybbcearthhd.m3u8 sonymarathi.m3u8 sonymax2.m3u8 sonymaxhd.m3u8 sonypal.m3u8 sonypixhd.m3u8 sonysabhd.m3u8 sonyten1hd.m3u8 sonyten2hd.m3u8 sonyten3hd.m3u8 sonyten4teluguhd.m3u8 sonyten4tamilhd.m3u8 sonyten5hd.m3u8 sonywah.m3u8 sonyyay.m3u8
           git fetch origin main
           git reset --soft origin/main
           if git diff --cached --quiet; then

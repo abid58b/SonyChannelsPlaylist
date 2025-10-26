@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Sony", Sony SET HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonysethd.m3u8
+
+#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony", Sony SAB HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonysabhd.m3u8
+
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony", Sony PAL
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonypal.m3u8
+
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f8/Sony_Yay_new_logo.png" group-title="Sony", Sony YAY
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyyay.m3u8
+
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony", Sony AATH
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyaath.m3u8
+
+#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony", Sony Marathi
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonymarathi.m3u8
+
+#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sony_BBC_Earth.png/250px-Sony_BBC_Earth.png" group-title="Sony", Sony BBC Earth HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonybbcearthhd.m3u8
+
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Sony", Sony PIX HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonypixhd.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony", Sony WAH
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonywah.m3u8
+
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony", Sony MAX HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonymaxhd.m3u8
+
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony", Sony MAX 2 HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonymax2.m3u8
+
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sony", Sony TEN 1 HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten1hd.m3u8
+
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sony", Sony TEN 2 HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten2hd.m3u8
+
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sony", Sony TEN 3 HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten3hd.m3u8
+
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sony", Sony TEN 4 Telugu HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten4teluguhd.m3u8
+
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="Sony", sony TEN 4 Tamil HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten4tamilhd.m3u8
+
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sony", Sony TEN 5 HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten5hd.m3u8
+

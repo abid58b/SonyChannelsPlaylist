@@ -1,8 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=208208,AVERAGE-BANDWIDTH=189200,CODECS="avc1.42c00c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-https://allinonereborn.online/livtest199/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fhdntl%3Dexp%3D1763015175~acl%3D%252f%2A~id%3D48204b0390cc49888b8507685173f43c-1755427161715~data%3Dhdntl~hmac%3Deaa9622ca00fb8842e61a007391c78e47dabab3fc3c8ac8e92ff5f90ae1aae11%2Fmaster_108.m3u8%3Faka_me_session_id%3DAAAAAAAAAAAHehVpAAAAAPbmzXMdwLVHwPHdzTpm5GY10sYEDQWQc3lOYcH%252f4k2FgCkXvEetgwe3YlEpX5ibnPQ4EVVnqXyC%26aka_media_format_type%3Dhls
-#EXT-X-STREAM-INF:BANDWIDTH=1218800,AVERAGE-BANDWIDTH=1060400,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000
-https://allinonereborn.online/livtest199/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2011907%2FSonyBBCEarthHD%2Fhdntl%3Dexp%3D1763015175~acl%3D%252f%2A~id%3D48204b0390cc49888b8507685173f43c-1755427161715~data%3Dhdntl~hmac%3Deaa9622ca00fb8842e61a007391c78e47dabab3fc3c8ac8e92ff5f90ae1aae11%2Fmaster_900.m3u8%3Faka_me_session_id%3DAAAAAAAAAAAHehVpAAAAAPbmzXMdwLVHwPHdzTpm5GY10sYEDQWQc3lOYcH%252f4k2FgCkXvEetgwe3YlEpX5ibnPQ4EVVnqXyC%26aka_media_format_type%3Dhls
-
+Upstream fetch failed

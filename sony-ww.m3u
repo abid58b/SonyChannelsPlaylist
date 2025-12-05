@@ -1,64 +1,64 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png", SET HD
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png", Sony SAB HD
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009259" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png", Sony Marathi
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009273" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png", Sony Pal
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009255" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png", Sony Aath
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000001971" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png", Sony Yay
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009247" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png", Sony MAX HD
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009249" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png", Sony MAX
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009253" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png", Sony MAX 2
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000044878" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png", Sony WAH
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009258" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png", Sony PIX HD
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png", Sony Sports Ten 3 HD
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009280" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png", Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009279" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png", Sony Sports Ten 2
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009283" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png", Sony Sports Ten 3
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009284" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png", Sony Sports Ten 4
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009265" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png", Sony Sports Ten 5
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009266" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png", Sony Sports Ten 1 HD
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009267" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png", Sony Sports Ten 2 HD
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009274" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_21000009276.png", Sony Sports Ten 4 HD
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_21000009276.png", Sony Sports Ten 4 HD
 #EXTVLCOPT:http-referrer=https://izyvo.com/
-https://aura.izyvo.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1765010113~acl=/*~id=92015123179625131642169352532872~hmac=0440fa5c79397a2843d6783a805c220d43675b6eb8b5067f0bb388f12c42840c
+https://aura.izyvo.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1765008914~acl=/*~id=68446423537086340866812814057696~hmac=efa2b4a1aaf41c3e6603d64ca00213eca36fc85ffcaa93cbcb8e9f79e9523de5

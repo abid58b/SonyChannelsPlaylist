@@ -1,0 +1,46 @@
+name: Update Channels Allinone M3U8 Files
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Code ko checkout karen
+        uses: actions/checkout@v4
+
+      - name: 2. Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Recommended latest stable version
+
+      - name: 3. Install dependencies
+        run: echo "No external dependencies to install."
+      
+      - name: Fetch JS Script 
+        run: |
+          curl -L -o sony-allinone.js ${{ secrets.SONY_ALLINONE_SCRIPT }}
+          node sony-allinone.js
+
+      - name: Changes ko commit karen
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/abid58b/SonyChannelsPlaylist.git
+
+      - name: Commit and push changes
+        run: |
+          git add sonyset.m3u8 sonysab.m3u8 sonymarathi.m3u8 sonypal.m3u8 sonyaath.m3u8 sonyyay.m3u8 sonymaxhd.m3u8 sonymaxsd.m3u8 sonymax2.m3u8 sonywah.m3u8 sonypix.m3u8 sonyten1sd.m3u8 sonyten2sd.m3u8 sonyten3sd.m3u8 sonyten4sd.m3u8 sonyten5sd.m3u8 sonyten1hd.m3u8 sonyten2hd.m3u8 sonyten3hd.m3u8 sonyten4hd.m3u8 sonyten5hd.m3u8
+          git fetch origin main
+          git reset --soft origin/main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Fetch channels m3u8 latest data"
+            git push origin main
+          fi

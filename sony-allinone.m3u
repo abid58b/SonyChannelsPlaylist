@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png", SET HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyset.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png", Sony SAB HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonysab.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png", Sony Marathi
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonymarathi.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png", Sony Pal
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonypal.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png", Sony Aath
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyaath.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png", Sony Yay
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyyay.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png", Sony MAX HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonymaxhd.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png", Sony MAX
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonymaxsd.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png", Sony MAX 2
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonymax2.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png", Sony WAH
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonywah.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png", Sony PIX HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonypix.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png", Sony Sports Ten 1
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten1sd.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png", Sony Sports Ten 2
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten2sd.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png", Sony Sports Ten 3
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten3sd.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009284" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png", Sony Sports Ten 4
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten4sd.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009265" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png", Sony Sports Ten 5
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten5sd.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009266" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png", Sony Sports Ten 1 HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten1hd.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009267" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png", Sony Sports Ten 2 HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten2hd.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png", Sony Sports Ten 3 HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten3hd.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009274" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_21000009276.png", Sony Sports Ten 4 HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten4hd.m3u8
+
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png", Sony Sports Ten 5 HD
+https://raw.githubusercontent.com/abid58b/SonyChannelsPlaylist/refs/heads/main/sonyten5hd.m3u8

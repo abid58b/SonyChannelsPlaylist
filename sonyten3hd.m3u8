@@ -1,20 +1,58 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=208208,AVERAGE-BANDWIDTH=189200,CODECS="avc1.42c00c,mp4a.40.2",RESOLUTION=256x144,FRAME-RATE=25.000
-https://allinonereborn.online/livtest2/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fhdntl%3Dexp%3D1765311720~acl%3D%252f%2A~id%3D67914198534957323972326584747900~data%3Dhdntl~hmac%3D82e4f3c8de1eeb789d92664f1c41e04f5b572b9b3a61347b0a47c34843fa672e%2Fmaster_108.m3u8%3Faka_me_session_id%3DAAAAAAAAAADohDhpAAAAAEuZp2Mg2eQarbtNMYePAKoHLCO8E23V9I%252ffSJ4fOVw9ziiiGWGwu3mzPBWqc%2BsgxzX%252fk%252fl3FAbH%26aka_media_format_type%3Dhls
-#EXT-X-STREAM-INF:BANDWIDTH=356224,AVERAGE-BANDWIDTH=316800,CODECS="avc1.42c00d,mp4a.40.2",RESOLUTION=384x216,FRAME-RATE=25.000
-https://allinonereborn.online/livtest2/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fhdntl%3Dexp%3D1765311720~acl%3D%252f%2A~id%3D67914198534957323972326584747900~data%3Dhdntl~hmac%3D82e4f3c8de1eeb789d92664f1c41e04f5b572b9b3a61347b0a47c34843fa672e%2Fmaster_224.m3u8%3Faka_me_session_id%3DAAAAAAAAAADohDhpAAAAAEuZp2Mg2eQarbtNMYePAKoHLCO8E23V9I%252ffSJ4fOVw9ziiiGWGwu3mzPBWqc%2BsgxzX%252fk%252fl3FAbH%26aka_media_format_type%3Dhls
-#EXT-X-STREAM-INF:BANDWIDTH=596112,AVERAGE-BANDWIDTH=523600,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=512x288,FRAME-RATE=25.000
-https://allinonereborn.online/livtest2/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fhdntl%3Dexp%3D1765311720~acl%3D%252f%2A~id%3D67914198534957323972326584747900~data%3Dhdntl~hmac%3D82e4f3c8de1eeb789d92664f1c41e04f5b572b9b3a61347b0a47c34843fa672e%2Fmaster_412.m3u8%3Faka_me_session_id%3DAAAAAAAAAADohDhpAAAAAEuZp2Mg2eQarbtNMYePAKoHLCO8E23V9I%252ffSJ4fOVw9ziiiGWGwu3mzPBWqc%2BsgxzX%252fk%252fl3FAbH%26aka_media_format_type%3Dhls
-#EXT-X-STREAM-INF:BANDWIDTH=917664,AVERAGE-BANDWIDTH=800800,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-https://allinonereborn.online/livtest2/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fhdntl%3Dexp%3D1765311720~acl%3D%252f%2A~id%3D67914198534957323972326584747900~data%3Dhdntl~hmac%3D82e4f3c8de1eeb789d92664f1c41e04f5b572b9b3a61347b0a47c34843fa672e%2Fmaster_664.m3u8%3Faka_me_session_id%3DAAAAAAAAAADohDhpAAAAAEuZp2Mg2eQarbtNMYePAKoHLCO8E23V9I%252ffSJ4fOVw9ziiiGWGwu3mzPBWqc%2BsgxzX%252fk%252fl3FAbH%26aka_media_format_type%3Dhls
-#EXT-X-STREAM-INF:BANDWIDTH=1218800,AVERAGE-BANDWIDTH=1060400,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000
-https://allinonereborn.online/livtest2/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fhdntl%3Dexp%3D1765311720~acl%3D%252f%2A~id%3D67914198534957323972326584747900~data%3Dhdntl~hmac%3D82e4f3c8de1eeb789d92664f1c41e04f5b572b9b3a61347b0a47c34843fa672e%2Fmaster_900.m3u8%3Faka_me_session_id%3DAAAAAAAAAADohDhpAAAAAEuZp2Mg2eQarbtNMYePAKoHLCO8E23V9I%252ffSJ4fOVw9ziiiGWGwu3mzPBWqc%2BsgxzX%252fk%252fl3FAbH%26aka_media_format_type%3Dhls
-#EXT-X-STREAM-INF:BANDWIDTH=1799600,AVERAGE-BANDWIDTH=1570800,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://allinonereborn.online/livtest2/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fhdntl%3Dexp%3D1765311720~acl%3D%252f%2A~id%3D67914198534957323972326584747900~data%3Dhdntl~hmac%3D82e4f3c8de1eeb789d92664f1c41e04f5b572b9b3a61347b0a47c34843fa672e%2Fmaster_1300.m3u8%3Faka_me_session_id%3DAAAAAAAAAADohDhpAAAAAEuZp2Mg2eQarbtNMYePAKoHLCO8E23V9I%252ffSJ4fOVw9ziiiGWGwu3mzPBWqc%2BsgxzX%252fk%252fl3FAbH%26aka_media_format_type%3Dhls
-#EXT-X-STREAM-INF:BANDWIDTH=2692800,AVERAGE-BANDWIDTH=2340800,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://allinonereborn.online/livtest2/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fhdntl%3Dexp%3D1765311720~acl%3D%252f%2A~id%3D67914198534957323972326584747900~data%3Dhdntl~hmac%3D82e4f3c8de1eeb789d92664f1c41e04f5b572b9b3a61347b0a47c34843fa672e%2Fmaster_2000.m3u8%3Faka_me_session_id%3DAAAAAAAAAADohDhpAAAAAEuZp2Mg2eQarbtNMYePAKoHLCO8E23V9I%252ffSJ4fOVw9ziiiGWGwu3mzPBWqc%2BsgxzX%252fk%252fl3FAbH%26aka_media_format_type%3Dhls
-#EXT-X-STREAM-INF:BANDWIDTH=4571600,AVERAGE-BANDWIDTH=3955600,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
-https://allinonereborn.online/livtest2/stream_proxy.php?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fhdntl%3Dexp%3D1765311720~acl%3D%252f%2A~id%3D67914198534957323972326584747900~data%3Dhdntl~hmac%3D82e4f3c8de1eeb789d92664f1c41e04f5b572b9b3a61347b0a47c34843fa672e%2Fmaster_3500.m3u8%3Faka_me_session_id%3DAAAAAAAAAADohDhpAAAAAEuZp2Mg2eQarbtNMYePAKoHLCO8E23V9I%252ffSJ4fOVw9ziiiGWGwu3mzPBWqc%2BsgxzX%252fk%252fl3FAbH%26aka_media_format_type%3Dhls
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>Bot Verification</title>
+    <script>
+        function onSubmit() {
+            document.getElementById('lsrecaptcha-form').submit();
+        }
 
+        var onloadCallback = function() {
+            var cont = grecaptcha.render('recaptchadiv', {
+                'sitekey': '6LewU34UAAAAAHvXqFOcQlm8z1MP1xpGAZCYEeZY',
+                'callback': onSubmit,
+                
+            });
+            grecaptcha.execute(cont);
+        };
+    </script>
+    <style>
+        body {
+        height: 100%;
+        }
+        .panel {
+        padding: 30px;
+        max-width: 425px;
+        margin: 10% auto;
+        box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.2);
+        }
+        .title {
+        font-size: 1.5em;
+        font-weight: 100;
+        margin-top: 10px;
+        text-align: center;
+        }
+        .recaptcha-center {
+        margin-top: 35px;
+        margin-bottom: 20px;
+        margin-left: 13%;
+        margin-right: 13%;
+        display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="panel">
+        <h3 class="title">Verifying that you are not a robot...</h3>
+        <form id="lsrecaptcha-form" method="POST" action="/.lsrecap/recaptcha?url=https%3A%2F%2Fdishmt.slivcdn.com%2Fhls%2Flive%2F2020591%2FTEN3HD%2Fmaster.m3u8%3Fhdnea%3Dexp%3D1765227015~acl%3D%2F*~id%3D67914198534957323972326584747900~hmac%3D4d17438bd4188a4683f1f60d368fbe1a4ec4e350638ff0433a03a62b2ab8028e">
+            <div id="recaptchadiv" class="recaptcha-center"></div>
+        </form>
+    </div>
+    <script src="https://www.recaptcha.net/recaptcha/api.js?onload=onloadCallback&render=explicit"
+            async defer>
+    </script>
+</body>
+</html>
